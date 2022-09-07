@@ -1,5 +1,5 @@
-#TODO
-Sample React-TODO-List
+#TODO : Sample React-TODO-List
+
 ![image](https://user-images.githubusercontent.com/55410420/188768550-7c3143f1-7b13-4905-b369-b27e3cfd1aa0.png)
 
 #Features:
