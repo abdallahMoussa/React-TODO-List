@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(14, 35, 56);
+}
+@font-face {
+    font-family: 'cookie';
+    src: url('./assets/fonts/Cookie-Regular.ttf');
+    font-display: swap;
+}
+.header{
+    width: 98%;
+    height: auto;
+    border-radius: 5px;
+    margin: 10px auto;
+    text-align: center;
+    background-color: gainsboro;
+    box-shadow: 2px 2px 5px black;
+    padding-bottom: 20px;
+}

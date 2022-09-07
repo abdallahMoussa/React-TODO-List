@@ -1,0 +1,20 @@
+.tasks{
+    width: 98%;
+    margin:auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px black;
+    height: auto;
+    background-color: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    align-items: center;
+}
+.noTask{
+    font-size: 26pt;
+    font-family: impact;
+    display: block;
+    margin: 20px auto;
+    color: red;
+}
